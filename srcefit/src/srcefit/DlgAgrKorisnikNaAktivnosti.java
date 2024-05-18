@@ -49,7 +49,7 @@ public class DlgAgrKorisnikNaAktivnosti extends JDialog {
 		korisnik_clanski_broj.setBounds(10, 15, 145, 14);
 		contentPanel.add(korisnik_clanski_broj);
 		
-		JLabel aktivnost_sifra = new JLabel("aktivnost_sifra");
+		JLabel aktivnost_sifra = new JLabel("aktivnost_sifra -2zaprobu");
 		aktivnost_sifra.setBounds(10, 48, 145, 14);
 		contentPanel.add(aktivnost_sifra);
 		{
